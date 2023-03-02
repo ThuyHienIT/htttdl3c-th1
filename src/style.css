@@ -1,0 +1,36 @@
+@import "https://js.arcgis.com/4.26/@arcgis/core/assets/esri/themes/light/main.css";
+html,
+body,
+#viewDiv {
+  padding: 0;
+  margin: 0;
+  height: 100%;
+  width: 100%;
+}
+
+#instruction {
+  z-index: 99;
+  position: absolute;
+  top: 15px;
+  left: 50%;
+  padding: 5px;
+  margin-left: -175px;
+  height: 30px;
+  width: 355px;
+  background: rgba(25, 25, 25, 0.8);
+  color: white;
+}
+
+.esri-popup--shadow {
+  box-shadow: rgb(0 0 0 / 16%) 0px 1px 2px -2px,
+    rgb(0 0 0 / 12%) 0px 3px 6px 0px, rgb(0 0 0 / 9%) 0px 5px 12px 4px;
+}
+.esri-ui .esri-popup,
+.esri-popup__main-container {
+  border-radius: 8px;
+}
+
+.esri-popup--aligned-top-center .esri-popup__pointer-direction,
+.esri-popup--aligned-bottom-center .esri-popup__pointer-direction {
+  transform: scale(0.75, 1) rotate(45deg);
+}
