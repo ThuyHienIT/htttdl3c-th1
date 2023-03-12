@@ -1,7 +1,116 @@
 {
-  "51": {
-    "area": "50km2",
-    "population": "1,000,000 người",
-    "description": "Lorem"
-  }
+    "38":
+    {
+        "area": "11129.48km2",
+        "population": "3640000 người",
+        "description": "Thanh Hóa là một tỉnh thuộc vùng Bắc Trung Bộ Việt Nam. Đồng thời là một tỉnh lớn của Việt Nam, có dân số đứng thứ 3, diện tích đứng thứ 5 cả nước."
+    },
+    "40":
+    {
+        "area": "16494km2",
+        "population": "3547000 người",
+        "description": "Nghệ An là một tỉnh ven biển nằm ở gần cực bắc khu vực Bắc Trung Bộ, miền Trung của Việt Nam và là tỉnh có diện tích lãnh thổ lớn nhất Việt Nam."
+    },
+    "42":
+    {
+        "area": "56.19km2",
+        "population": "1478000 người",
+        "description": "Hà Tĩnh là một tỉnh ven biển nằm ở phía bắc khu vực Bắc Trung Bộ, miền Trung của Việt Nam. Năm 2018, Hà Tĩnh là đơn vị hành chính Việt Nam đông thứ 25 về số dân, xếp thứ 33 về Tổng sản phẩm trên địa bàn (GRDP), xếp thứ 27 về GRDP bình quân đầu người, đứng thứ nhất về tốc độ tăng trưởng GRDP."
+    },
+    "44":
+    {
+        "area": "8066km2",
+        "population": "936607 người",
+        "description": "Quảng Bình là một tỉnh ven biển nằm ở phía nam khu vực Bắc Trung Bộ, miền Trung của Việt Nam. Nơi đây cũng là nơi có con sông Gianh - chia tách Đàng Trong, Đàng Ngoài và Luỹ Thầy do chúa Nguyễn xây dựng trong thời kì Trịnh-Nguyễn phân tranh."
+    },
+    "45":
+    {
+        "area": "74km2",
+        "population": "22760 người",
+        "description": "Quảng Trị là một tỉnh ven biển nằm ở gần cực nam khu vực Bắc Trung Bộ, miền Trung của Việt Nam. Năm 2018, Quảng Trị là đơn vị hành chính Việt Nam đông thứ 57 về số dân, xếp thứ 55 về Tổng sản phẩm trên địa bàn (GRDP), xếp thứ 37 về GRDP bình quân đầu người, đứng thứ 51 về tốc độ tăng trưởng GRDP."
+    },
+    "46":
+    {
+        "area": "5033km2",
+        "population": "1283000 người",
+        "description": "Huế là thành phố tỉnh lỵ của tỉnh Thừa Thiên Huế, Việt Nam. Huế từng là kinh đô (cố đô Huế) của Việt Nam dưới triều Tây Sơn (1788–1801) và triều Nguyễn (1802–1945). Hiện nay, thành phố là một trong những trung tâm về văn hóa – du lịch, y tế chuyên sâu, giáo dục đào tạo, khoa học công nghệ của Miền Trung - Tây Nguyên và cả nước."
+    },
+    "48":
+    {
+        "area": "1285km2",
+        "population": "1134000 người",
+        "description": "Đà Nẵng là một thành phố trực thuộc trung ương, nằm trong vùng Duyên hải Trung Trung Bộ Việt Nam, là thành phố trung tâm và lớn nhất khu vực miền Trung - Tây Nguyên."
+    },
+    "49":
+    {
+        "area": "10438km2",
+        "population": "1840000 người",
+        "description": "Hội An là một thành phố trực thuộc tỉnh Quảng Nam, Việt Nam. Phố cổ Hội An từng là một thương cảng quốc tế sầm uất, gồm những di sản kiến trúc đã có từ hàng trăm năm trước, được UNESCO công nhận là di sản văn hóa thế giới từ năm 1999."
+    },
+    "51":
+    {
+        "area": "160.2km2",
+        "population": "302440 người",
+        "description": "Quảng Ngãi là một tỉnh ven biển nằm ở vùng Duyên hải Nam Trung Bộ, Việt Nam. Tỉnh lỵ là Thành phố Quảng Ngãi, cách thành phố Hồ Chí Minh 820 km về phía Nam, cách thành phố Đà Nẵng 146 km về phía Bắc và cách Hà Nội 908 km về phía Bắc tính theo đường Quốc lộ 1."
+    },
+    "52":
+    {
+        "area": "6851km2",
+        "population": "2468000 người",
+        "description": "Quy Nhơn là một thành phố lớn ven biển vùng duyên hải Nam Trung Bộ, Việt Nam và là trung tâm kinh tế, chính trị, văn hóa, khoa học kỹ thuật và du lịch của tỉnh Bình Định, Việt Nam."
+    },
+    "54":
+    {
+        "area": "5045km2",
+        "population": "961152 người",
+        "description": "Phú Yên là một tỉnh ven biển nằm ở phía bắc khu vực duyên hải Nam Trung Bộ, miền Trung của Việt Nam. Năm 2018, Phú Yên là đơn vị hành chính Việt Nam đông thứ 45 về số dân, xếp thứ 43 về Tổng sản phẩm trên địa bàn (GRDP), xếp thứ 30 về GRDP bình quân đầu người, đứng thứ 25 về tốc độ tăng trưởng GRDP."
+    },
+    "56":
+    {
+        "area": "5218km2",
+        "population": "1336000 người",
+        "description": "Khánh Hòa là một tỉnh duyên hải Nam Trung Bộ, miền Trung Việt Nam. Năm 2018, Khánh Hòa là đơn vị hành chính Việt Nam đông thứ 33 về số dân, xếp thứ 24 về Tổng sản phẩm trên địa bàn (GRDP), xếp thứ 15 về GRDP bình quân đầu người, đứng thứ 42 về tốc độ tăng trưởng GRDP."
+    },
+    "58":
+    {
+        "area": "3358km2",
+        "population": "579710 người",
+        "description": "Ninh Thuận là một tỉnh ven biển nằm ở gần cực nam khu vực duyên hải Nam Trung Bộ, miền Trung của Việt Nam. Thủ phủ của Ninh Thuận là thành phố Phan Rang – Tháp Chàm nằm cách Thành phố Hồ Chí Minh 340 km về phía Bắc, cách thành phố Đà Nẵng 642 km về phía nam, cách thủ đô Hà Nội 1.380 km về phía Nam và cách Nha Trang 100 km theo đường Quốc lộ 1 và cách Đà Lạt 110 km theo đường Quốc lộ 27, đồng thời nằm cách sân bay Cam Ranh khoảng 60 km, thuận tiện cho việc giao lưu phát triển kinh tế xã hội của tỉnh."
+    },
+    "60":
+    {
+        "area": "7992km2",
+        "population": "136000 người",
+        "description": "Bình Thuận là một tỉnh ven biển nằm ở cực nam khu vực duyên hải Nam Trung Bộ, miền Trung của Việt Nam. Năm 2018, Bình Thuận là đơn vị hành chính Việt Nam đông thứ 32 về số dân, xếp thứ 34 về Tổng sản phẩm trên địa bàn (GRDP), xếp thứ 26 về GRDP bình quân đầu người, đứng thứ 35 về tốc độ tăng trưởng GRDP."
+    },
+    "62":
+    {
+        "area": "433km2",
+        "population": "172712 người",
+        "description": "Kon Tum là một tỉnh nằm ở phía bắc Tây Nguyên, Việt Nam. Năm 2018, Kon Tum là đơn vị hành chính Việt Nam đông thứ 61 về số dân, xếp thứ 59 về Tổng sản phẩm trên địa bàn (GRDP), xếp thứ 53 về GRDP bình quân đầu người, đứng thứ 28 về tốc độ tăng trưởng GRDP."
+    },
+    "64":
+    {
+        "area": "15495km2",
+        "population": "1514000 người",
+        "description": "Gia Lai là một tỉnh miền núi nằm ở phía bắc khu vực Tây Nguyên, miền Trung của Việt Nam và là tỉnh có diện tích lớn thứ hai Việt Nam. Tỉnh Gia Lai cũng đứng thứ nhất về diện tích và đứng thứ hai về dân số vùng Tây Nguyên."
+    },
+    "66":
+    {
+        "area": "13062km2",
+        "population": "2127000 người",
+        "description": "Đắk Lắk là một tỉnh nằm ở trung tâm vùng Tây Nguyên, miền Trung Việt Nam. Năm 2019, Đắk Lắk là đơn vị hành chính Việt Nam có diện tích lớn thứ 4, đông thứ 10 về dân số, xếp thứ 22 về Tổng sản phẩm trên địa bàn (GRDP), xếp thứ 41 về GRDP bình quân đầu người, đứng thứ 37 về tốc độ tăng trưởng GRDP."
+    },
+    "67":
+    {
+        "area": "6516km2",
+        "population": "574363 người",
+        "description": "Đắk Nông là một tỉnh thuộc vùng Tây Nguyên, miền Trung, Việt Nam. Năm 2021, Đắk Nông là tỉnh, thành Việt Nam đông thứ 57 về số dân, xếp thứ 52 về Tổng sản phẩm trên địa bàn (GRDP), xếp thứ 47 về GRDP bình quân đầu người, đứng thứ 7 về tốc độ tăng trưởng GRDP."
+    },
+    "68":
+    {
+        "area": "9765km2",
+        "population": "1551000 người",
+        "description": "Lâm Đồng là một trong năm tỉnh thuộc vùng Tây Nguyên, Việt Nam, đồng thời là tỉnh có diện tích lớn thứ 7 cả nước, tiếp giáp với vùng kinh tế trọng điểm phía Nam."
+    }
 }

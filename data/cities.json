@@ -1,14 +1,116 @@
 [
-  {
-    "name": "Thành Phố Quãng Ngãi",
-    "long": 108.8087649,
-    "lat": 15.1533799,
-    "content": "Đại học lâu đời nhất"
-  },
-  {
-    "name": "Đại học Quy Nhơn",
-    "long": 109.2178573,
-    "lat": 13.7589597,
-    "content": "Đại học lâu đời nhất"
-  }
+    {
+        "name": "Quận Hải Châu",
+        "long": 108.19611,
+        "lat": 16.060556,
+        "content": "Quận Hải Châu là tỉnh lị của tỉnh Đà Nẵng"
+    },
+    {
+        "name": "Thành Phố Gia Nghĩa",
+        "long": 107.68361,
+        "lat": 11.999167,
+        "content": "Thành Phố Gia Nghĩa là tỉnh lị của tỉnh Đăk Nông"
+    },
+    {
+        "name": "Thành phố Buôn Ma Thuột",
+        "long": 108.05092,
+        "lat": 12.684696,
+        "content": "Thành phố Buôn Ma Thuột là tỉnh lị của tỉnh Đắk Lắk"
+    },
+    {
+        "name": "Thành phố Quy Nhơn",
+        "long": 109.23333,
+        "lat": 13.766667,
+        "content": "Thành phố Quy Nhơn là tỉnh lị của tỉnh Bình Định"
+    },
+    {
+        "name": "Thành phố Phan Thiết",
+        "long": 108.09783,
+        "lat": 10.924105,
+        "content": "Thành phố Phan Thiết là tỉnh lị của tỉnh Bình Thuận"
+    },
+    {
+        "name": "Thành phố Pleiku",
+        "long": 108.01507,
+        "lat": 13.971978,
+        "content": "Thành phố Pleiku là tỉnh lị của tỉnh Gia Lai"
+    },
+    {
+        "name": "Thành Phố Hà Tĩnh",
+        "long": 105.902725,
+        "lat": 18.339603,
+        "content": "Thành Phố Hà Tĩnh là tỉnh lị của tỉnh Hà Tĩnh"
+    },
+    {
+        "name": "Thành Phố Nha Trang",
+        "long": 109.19639,
+        "lat": 12.256111,
+        "content": "Thành Phố Nha Trang là tỉnh lị của tỉnh Khánh Hòa"
+    },
+    {
+        "name": "Thành Phố Kon Tum",
+        "long": 107.98333,
+        "lat": 14.383333,
+        "content": "Thành Phố Kon Tum là tỉnh lị của tỉnh Kon Tum"
+    },
+    {
+        "name": "thành phố Bảo Lộc",
+        "long": 107.8075,
+        "lat": 11.548056,
+        "content": "thành phố Bảo Lộc là tỉnh lị của tỉnh Lâm Đồng"
+    },
+    {
+        "name": "Thành phố Vinh",
+        "long": 105.676544,
+        "lat": 18.676346,
+        "content": "Thành phố Vinh là tỉnh lị của tỉnh Nghệ An"
+    },
+    {
+        "name": "Thành phố Phan Rang - Tháp Chàm",
+        "long": 108.99722,
+        "lat": 11.565278,
+        "content": "Thành phố Phan Rang - Tháp Chàm là tỉnh lị của tỉnh Ninh Thuận"
+    },
+    {
+        "name": "Thành phố Tuy Hòa",
+        "long": 109.310555,
+        "lat": 13.0875,
+        "content": "Thành phố Tuy Hòa là tỉnh lị của tỉnh Phú Yên"
+    },
+    {
+        "name": "Thành Phố Đồng Hới",
+        "long": 106.5875,
+        "lat": 17.448055,
+        "content": "Thành Phố Đồng Hới là tỉnh lị của tỉnh Quảng Bình"
+    },
+    {
+        "name": "Thành Phố Hội An",
+        "long": 108.32056,
+        "lat": 15.880833,
+        "content": "Thành Phố Hội An là tỉnh lị của tỉnh Quảng Nam"
+    },
+    {
+        "name": "Thành Phố Quảng Ngãi",
+        "long": 108.80389,
+        "lat": 15.123333,
+        "content": "Thành Phố Quảng Ngãi là tỉnh lị của tỉnh Quảng Ngãi"
+    },
+    {
+        "name": "Thị Xã quảng Trị",
+        "long": 107.18278,
+        "lat": 16.750834,
+        "content": "Thị Xã quảng Trị là tỉnh lị của tỉnh Quảng Trị"
+    },
+    {
+        "name": "Thành phố Huế",
+        "long": 107.58522,
+        "lat": 16.462622,
+        "content": "Thành phố Huế là tỉnh lị của tỉnh Thừa Thiên - Huế"
+    },
+    {
+        "name": "Thành phố Thanh Hóa",
+        "long": 105.77639,
+        "lat": 19.8075,
+        "content": "Thành phố Thanh Hóa là tỉnh lị của tỉnh Thanh Hóa"
+    }
 ]

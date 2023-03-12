@@ -1,25 +1,25 @@
- ### About this sample
+ ### Giới thiệu về project:
 
-This sample application uses the ArcGIS Maps SDK for JavaScript ES modules (ESM), also referred to as [`@arcgis/core`](https://www.npmjs.com/package/@arcgis/core). It uses a lightweight framework called [Vite.js](https://vitejs.dev/) to compile the application locally on your machine.
+Bài tập này sử dụng ArcGIS Maps SDK bởi JavaScript ES modules (ESM), ngoài ra cũng có tham khảo thêm ở [`@arcgis/core`](https://www.npmjs.com/package/@arcgis/core). Bài tập này sử dụng framework [Vite.js](https://vitejs.dev/) để chạy ứng dụng trên máy local.
 
-### Requirements
+### Yêu cầu:
 
-Be sure your machine has Node.js, NPM and a webserver installed. Refer to the SDK's [ES Modules guide topic](https://developers.arcgis.com/javascript/latest/es-modules/#prerequisites) for more information.
+Máy tính cần có Node.js, NPM và 1 webserver đã cài đặt, có thể tham khảo thêm thông tin ở đây: [Hướng dẫn về ES Modules](https://developers.arcgis.com/javascript/latest/es-modules/#prerequisites).
 
-### Install
+### Cài đặt:
 
-To install sample and its dependencies, run `npm install`.
+Để cài đặt và chạy ứng dụng và các dependencies, chạy lệnh ở terminal / cmd `npm install`.
 
-### Run the sample
+### Chạy ứng dụng
 
-To run the sample use `npm run dev`. This will compile the application and enabled you to launch it in a browser window.
+Để chạy ứng dụng, mở terminal / cmd và chạy lệnh `npm run dev`. Ứng dụng sẽ được mở trên web browser bạn đang sử dụng hoặc browser mặc định của máy. (Nhóm tested trên Chrome)
 
-### More information
+### Các thông tin tham khảo:
 
-For more information on using the ArGIS API for JavaScript with ES modules: https://developers.arcgis.com/javascript/latest/es-modules/#additional-information. 
+ArGIS API for JavaScript with ES modules: https://developers.arcgis.com/javascript/latest/es-modules/#additional-information. 
 
-For more samples using a variety of frameworks and module bundlers: https://github.com/Esri/jsapi-resources/tree/master/esm-samples. 
+Frameworks and module bundlers: https://github.com/Esri/jsapi-resources/tree/master/esm-samples. 
 
-For more information on using the ArGIS API for JavaScript with TypeScript: https://developers.arcgis.com/javascript/latest/typescript-setup/. 
+ArGIS API for JavaScript with TypeScript: https://developers.arcgis.com/javascript/latest/typescript-setup/. 
 
-To learn more about Vite.js: https://vitejs.dev/guide/why.html. 
+Vite.js: https://vitejs.dev/guide/why.html. 
